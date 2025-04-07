@@ -18,9 +18,15 @@
 
 
 📈 **Minhas Estatísticas no GitHub:**
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=torresgdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torresgdev&layout=compact&theme=radical)
 
+
+
+
 ![Snake animation](https://github.com/torresgdev/torresgdev/blob/output/github-contribution-grid-snake.svg)
+
 
 
