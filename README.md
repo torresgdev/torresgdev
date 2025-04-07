@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou [Gabriel Torres]!
 
-🎯 Desenvolvedor Full-Stack | 🚀 Apaixonado por tecnologia | 💡 Sempre aprendendo algo novo  
+🎯 Desenvolvedor Back-End | 🚀 Apaixonado por tecnologia | 💡 Sempre aprendendo algo novo  
 
 📍 **Sobre mim:**
 - 🔭 Atualmente trabalhando em **projetos web modernos**  
@@ -14,7 +14,6 @@
 
 🚀 **Tech Stack:**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 📈 **Minhas Estatísticas no GitHub:**
