@@ -11,7 +11,7 @@
 - 🧠 **NestJS** — Estrutura modular, Clean Architecture, Dependency Injection
 - 🐘 **PostgreSQL** — Consultas SQL eficientes, modelagem de dados relacional
 - 🐳 **Docker** — Ambientes isolados, produção e desenvolvimento realistas
-- ⚙️ **TypeORM / Knex** — Integração com banco de dados com migrations e queries robustas
+- ⚙️ **TypeORM / Sequelize** — Integração com banco de dados com migrations e queries robustas
 - 🔍 **Swagger** — Documentação automática de APIs
 - 🧪 **Testes** — Jest para testes unitários e de integração (em constante evolução)
 
