@@ -1,6 +1,6 @@
 Olá, eu sou o Gabriel 👋
 
-Desenvolvedor FullStack apaixonado por construir aplicações robustas e escaláveis, com foco em &lt;strong>APIs profissionais&lt;/strong> e experiências de usuário dinâmicas.
+Desenvolvedor FullStack apaixonado por construir aplicações robustas e escaláveis, com foco em APIs profissionais e experiências de usuário dinâmicas.
 
 
 ---
