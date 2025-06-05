@@ -1,19 +1,15 @@
-<h1 align="center">Olá, eu sou o Gabriel 👋</h1>
+&lt;h1 align="center">Olá, eu sou o Gabriel 👋&lt;/h1>
 
-<p align="center">
-  Desenvolvedor Backend focado em criar APIs profissionais com <strong>NestJS</strong>, <strong>PostgreSQL</strong> e <strong>Docker</strong>.
-</p>
+&lt;p align="center">
+Desenvolvedor FullStack apaixonado por construir aplicações robustas e escaláveis, com foco em &lt;strong>APIs profissionais&lt;/strong> e experiências de usuário dinâmicas.
+&lt;/p>
 
 ---
 
-## 🚀 Tecnologias que domino
-
-- 🧠 **NestJS** — Estrutura modular, Clean Architecture, Dependency Injection
-- 🐘 **PostgreSQL** — Consultas SQL eficientes, modelagem de dados relacional
-- 🐳 **Docker** — Ambientes isolados, produção e desenvolvimento realistas
-- ⚙️ **TypeORM / Sequelize** — Integração com banco de dados com migrations e queries robustas
-- 🔍 **Swagger** — Documentação automática de APIs
-- 🧪 **Testes** — Jest para testes unitários e de integração (em constante evolução)
+🚀 Tecnologias que domino
+💻 Frontend — Next.js (App Router, Server Components), React (Hooks, Componentes), Tailwind CSS (Estilização rápida e responsiva).
+🧠 Backend — NestJS (Estrutura modular, Clean Architecture, Dependency Injection), PostgreSQL (Consultas SQL eficientes, modelagem de dados relacional).
+🛠️ Ferramentas & Infraestrutura — Docker (Ambientes isolados, produção e desenvolvimento realistas), TypeORM / Sequelize (Integração com banco de dados com migrations e queries robustas), Swagger (Documentação automática de APIs), Testes (Jest para testes unitários e de integração).
 
 ---
 
@@ -25,12 +21,15 @@ Confira meus projetos completos com código limpo, comentado e rodando com Docke
 - 🔗 [E-commerce API (Sistema de Pedidos)](https://github.com/torresgdev/ecommerce)
 - 🔗 [Dashboard de Finanças Pessoais](https://github.com/torresgdev/financial_api)
 - 🔗[Crud de Usuários](https://github.com/torresgdev/API_Users)
+- 🔗[Landing Page simples](https://github.com/torresgdev/landing-page-simples)
+- 🔗[Catalogo de Filmes](https://github.com/torresgdev/movie-catalog)
+- 🔗[Lista de Compras](https://github.com/torresgdev/shopping-list)
 
 ---
 
 ## 🎯 Objetivo
 
-Atualmente busco oportunidades como **Desenvolvedor Backend Júnior** para aplicar meus conhecimentos em projetos reais e crescer profissionalmente com tecnologias modernas.
+Atualmente busco oportunidades como **Desenvolvedor Backend Júnior** / **Desenvolvedor Frontend Júnior** /**Desenvolvedor FullStack Júnior** para aplicar meus conhecimentos em projetos reais e crescer profissionalmente com tecnologias modernas.
 
 ---
 
