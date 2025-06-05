@@ -1,8 +1,7 @@
-&lt;h1 align="center">Olá, eu sou o Gabriel 👋&lt;/h1>
+Olá, eu sou o Gabriel 👋
 
-&lt;p align="center">
 Desenvolvedor FullStack apaixonado por construir aplicações robustas e escaláveis, com foco em &lt;strong>APIs profissionais&lt;/strong> e experiências de usuário dinâmicas.
-&lt;/p>
+
 
 ---
 
