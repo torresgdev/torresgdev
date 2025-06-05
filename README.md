@@ -6,6 +6,7 @@ Desenvolvedor FullStack apaixonado por construir aplicações robustas e escalá
 ---
 
 🚀 Tecnologias que domino
+
 💻 Frontend — Next.js (App Router, Server Components), React (Hooks, Componentes), Tailwind CSS (Estilização rápida e responsiva).
 🧠 Backend — NestJS (Estrutura modular, Clean Architecture, Dependency Injection), PostgreSQL (Consultas SQL eficientes, modelagem de dados relacional).
 🛠️ Ferramentas & Infraestrutura — Docker (Ambientes isolados, produção e desenvolvimento realistas), TypeORM / Sequelize (Integração com banco de dados com migrations e queries robustas), Swagger (Documentação automática de APIs), Testes (Jest para testes unitários e de integração).
