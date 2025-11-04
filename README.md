@@ -1,42 +1,47 @@
-Olá, eu sou o Gabriel 👋
+# Olá! Eu sou o Gabriel Torres 👋
 
-Desenvolvedor FullStack apaixonado por construir aplicações robustas e escaláveis, com foco em APIs profissionais e experiências de usuário dinâmicas.
-
-
----
-
-🚀 Tecnologias que domino
-
-💻 Frontend — Next.js (App Router, Server Components), React (Hooks, Componentes), Tailwind CSS (Estilização rápida e responsiva).
-🧠 Backend — NestJS (Estrutura modular, Clean Architecture, Dependency Injection), PostgreSQL (Consultas SQL eficientes, modelagem de dados relacional).
-🛠️ Ferramentas & Infraestrutura — Docker (Ambientes isolados, produção e desenvolvimento realistas), TypeORM / Sequelize (Integração com banco de dados com migrations e queries robustas), Swagger (Documentação automática de APIs), Testes (Jest para testes unitários e de integração).
-
----
-
-## 💼 Projetos de Portfólio
-
-Confira meus projetos completos com código limpo, comentado e rodando com Docker:
-
-- 🔗 [Sistema de Agendamento Médico](https://github.com/torresgdev/medical_api)
-- 🔗 [E-commerce API (Sistema de Pedidos)](https://github.com/torresgdev/ecommerce)
-- 🔗 [Dashboard de Finanças Pessoais](https://github.com/torresgdev/financial_api)
-- 🔗[Crud de Usuários](https://github.com/torresgdev/API_Users)
-- 🔗[Landing Page simples](https://github.com/torresgdev/landing-page-simples)
-- 🔗[Catalogo de Filmes](https://github.com/torresgdev/movie-catalog)
-- 🔗[Lista de Compras](https://github.com/torresgdev/shopping-list)
+<a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:seu.email@exemplo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+</a>
+<a href="https://seu-portfolio-aqui.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF6000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+</a>
 
 ---
 
-## 🎯 Objetivo
+### 💻 Desenvolvedor Back-end | Especialista em Java & Spring Boot
 
-Atualmente busco oportunidades como **Desenvolvedor Backend Júnior** / **Desenvolvedor Frontend Júnior** /**Desenvolvedor FullStack Júnior** para aplicar meus conhecimentos em projetos reais e crescer profissionalmente com tecnologias modernas.
+Sou Engenheiro de Software focado na construção de sistemas robustos e escaláveis. Minha paixão é transformar requisitos de negócio em soluções de código limpo, testável e bem documentado.
+
+Atualmente, estou aprofundando meus conhecimentos em arquitetura *Full-Stack*, conectando APIs Spring Boot com interfaces modernas em Angular.
+
+### 🚀 Habilidades Técnicas
+
+| Categoria | Tecnologias Chave |
+| :--- | :--- |
+| **Linguagem Principal** | `Java 21` |
+| **Frameworks** | `Spring Boot 3` (Web, Data JPA, Security) |
+| **Banco de Dados** | `PostgreSQL`, `H2 Database`, `MySQL`, `MongoDB` |
+| **Testes e Qualidade** | `JUnit 5`, `Mockito`, `Testes Unitários` |
+| **Ferramentas** | `Git`, `Maven`, `IntelliJ IDEA`, `Docker` |
+
+### 💡 Projeto em Destaque: EZ-REST API
+
+Um sistema *Full-Stack* de gestão de pedidos para restaurantes, focado em alta disponibilidade e experiência do cliente via QR Code.
+
+* **Back-end:** API RESTful robusta desenvolvida em **Spring Boot 3**, com arquitetura em camadas e DTOs, cobrindo as operações de CRUD, Comanda e Extrato.
+* **Testes:** Cobertura de **100% dos cenários de regras de negócio** na camada de Serviço usando **JUnit e Mockito**.
+* **Front-end:** Desenvolvimento da interface administrativa e do Extrato Público em **Angular** (Standalones e Roteamento).
+
+[🔗 **Ver Repositório EZ-REST**](link-para-seu-repositorio-ez-rest)
 
 ---
 
-## 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-torres-dev/)
-- 🐙 [GitHub](https://github.com/torresgdev)
-- ✉️ Email: torresg.dev@gmail.com
+### 🤝 Contato
 
----
+Estou sempre aberto a novas conexões e desafios! Se tiver uma oportunidade ou apenas quiser trocar ideias, sinta-se à vontade para me contatar.
+email: torresg.dev@gmail.com
