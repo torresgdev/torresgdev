@@ -1,15 +1,11 @@
 # Olá! Eu sou o Gabriel Torres 👋
 
-<a href="https://linkedin.com/in/seu-linkedin-aqui" target="_blank">
+<a href="https://linkedin.com/in/gabriel-torres-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="mailto:seu.email@exemplo.com" target="_blank">
+<a href="mailto:torresg.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
-<a href="https://seu-portfolio-aqui.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
-</a>
-
 ---
 
 ### 💻 Desenvolvedor Back-end | Especialista em Java & Spring Boot
@@ -44,4 +40,3 @@ Um sistema *Full-Stack* de gestão de pedidos para restaurantes, focado em alta 
 ### 🤝 Contato
 
 Estou sempre aberto a novas conexões e desafios! Se tiver uma oportunidade ou apenas quiser trocar ideias, sinta-se à vontade para me contatar.
-email: torresg.dev@gmail.com
