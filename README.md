@@ -12,8 +12,6 @@
 
 Sou Engenheiro de Software focado na construção de sistemas robustos e escaláveis. Minha paixão é transformar requisitos de negócio em soluções de código limpo, testável e bem documentado.
 
-Atualmente, estou aprofundando meus conhecimentos em arquitetura *Full-Stack*, conectando APIs Spring Boot com interfaces modernas em Angular.
-
 ### 🚀 Habilidades Técnicas
 
 | Categoria | Tecnologias Chave |
@@ -30,9 +28,8 @@ Um sistema *Full-Stack* de gestão de pedidos para restaurantes, focado em alta 
 
 * **Back-end:** API RESTful robusta desenvolvida em **Spring Boot 3**, com arquitetura em camadas e DTOs, cobrindo as operações de CRUD, Comanda e Extrato.
 * **Testes:** Cobertura de **100% dos cenários de regras de negócio** na camada de Serviço usando **JUnit e Mockito**.
-* **Front-end:** Desenvolvimento da interface administrativa e do Extrato Público em **Angular** (Standalones e Roteamento).
 
-[🔗 **Ver Repositório EZ-REST**]([link-para-seu-repositorio-ez-rest](https://github.com/torresgdev/RestaurantManager))
+[🔗 **Ver Repositório EZ-REST**](https://github.com/torresgdev/RestaurantManager)
 
 ---
 
