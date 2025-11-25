@@ -32,7 +32,7 @@ Um sistema *Full-Stack* de gestão de pedidos para restaurantes, focado em alta 
 * **Testes:** Cobertura de **100% dos cenários de regras de negócio** na camada de Serviço usando **JUnit e Mockito**.
 * **Front-end:** Desenvolvimento da interface administrativa e do Extrato Público em **Angular** (Standalones e Roteamento).
 
-[🔗 **Ver Repositório EZ-REST**](link-para-seu-repositorio-ez-rest)
+[🔗 **Ver Repositório EZ-REST**]([link-para-seu-repositorio-ez-rest](https://github.com/torresgdev/RestaurantManager))
 
 ---
 
